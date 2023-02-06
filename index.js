@@ -3,7 +3,7 @@ const inputBtn = document.getElementById('input-btn')
 const ulEl = document.getElementById('ul-el')
 const deleteBtn = document.getElementById('delete-btn')
 const tabBtn = document.getElementById('tab-btn')
-let myLeads = ["https://awesomelead.com", "www.epiclead.com", "www.greatlead.com","https://mail.ru/"]
+let myLeads = []
 //myLeads = JSON.parse(myLeads);
 //console.log(typeof myLeads)
 //myLeads.push("dkjfnkjnf")
